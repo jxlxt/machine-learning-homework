@@ -1,0 +1,305 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  31 JAN 2018 20:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**scifile.tex
+(./scifile.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip46
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count92
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (./scifile.aux
+
+LaTeX Warning: Label `Fig.sub.1' multiply defined.
+
+
+LaTeX Warning: Label `sub@Fig.sub.1' multiply defined.
+
+
+LaTeX Warning: Label `Fig.sub.' multiply defined.
+
+
+LaTeX Warning: Label `sub@Fig.sub.' multiply defined.
+
+
+LaTeX Warning: Label `Fig.sub.2' multiply defined.
+
+
+LaTeX Warning: Label `sub@Fig.sub.2' multiply defined.
+
+)
+\openout1 = `scifile.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 93.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen107
+\scratchbox=\box28
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen108
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 101.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 101.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 101.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 101.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 101.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
+
+[2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 158.
+ <tsne_plot2D.png, id=19, 578.16pt x 433.62pt>
+File: tsne_plot2D.png Graphic file (type png)
+ <use tsne_plot2D.png>
+Package pdftex.def Info: tsne_plot2D.png used on input line 162.
+(pdftex.def)             Requested size: 213.96527pt x 160.46997pt.
+
+<largeVis_plot2D.png, id=21, 578.16pt x 433.62pt>
+File: largeVis_plot2D.png Graphic file (type png)
+ <use largeVis_plot2D.png>
+Package pdftex.def Info: largeVis_plot2D.png used on input line 165.
+(pdftex.def)             Requested size: 213.96527pt x 160.46997pt.
+
+<trimap_plot2D.png, id=22, 578.16pt x 433.62pt>
+File: trimap_plot2D.png Graphic file (type png)
+ <use trimap_plot2D.png>
+Package pdftex.def Info: trimap_plot2D.png used on input line 169.
+(pdftex.def)             Requested size: 213.96527pt x 160.46997pt.
+
+[3] [4 <./tsne_plot2D.png> <./largeVis_plot2D.png> <./trimap_plot2D.png>]
+
+LaTeX Warning: Citation `MNIST' on page 5 undefined on input line 188.
+
+
+Overfull \hbox (16.09949pt too wide) in paragraph at lines 198--199
+\OT1/ptm/m/n/12 It's kindly same to pre-vi-ous pa-per, firstly, it gives the de
+f-i-ni-tion of two terms. Trustworthiness[[]][[]], 
+ []
+
+[5]
+
+LaTeX Warning: Citation `MNIST' on page 6 undefined on input line 206.
+
+
+Overfull \hbox (0.11327pt too wide) in paragraph at lines 211--212
+[]\OT1/ptm/m/n/12 For each value of $\OML/cmm/m/it/12 k$ \OT1/ptm/m/n/12 we com
+-pare the points in low-dimension neigh-bor and high-dimension
+ []
+
+[6] <continuity.png, id=41, 642.4pt x 481.8pt>
+File: continuity.png Graphic file (type png)
+ <use continuity.png>
+Package pdftex.def Info: continuity.png used on input line 221.
+(pdftex.def)             Requested size: 213.96527pt x 160.47217pt.
+
+<trustworthiness.png, id=42, 642.4pt x 481.8pt>
+File: trustworthiness.png Graphic file (type png)
+ <use trustworthiness.png>
+Package pdftex.def Info: trustworthiness.png used on input line 224.
+(pdftex.def)             Requested size: 213.96527pt x 160.47217pt.
+
+<precision-recall.png, id=43, 642.4pt x 481.8pt>
+File: precision-recall.png Graphic file (type png)
+ <use precision-recall.png>
+Package pdftex.def Info: precision-recall.png used on input line 228.
+(pdftex.def)             Requested size: 213.96527pt x 160.47217pt.
+
+[7 <./continuity.png> <./trustworthiness.png> <./precision-recall.png>]
+[8] [9
+
+] (./scifile.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1819 strings out of 492995
+ 26384 string characters out of 6132704
+ 85969 words of memory out of 5000000
+ 5351 multiletter control sequences out of 15000+600000
+ 20698 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,8n,25p,1216b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on scifile.pdf (9 pages, 3081753 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
